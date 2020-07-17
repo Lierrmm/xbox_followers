@@ -1,0 +1,15 @@
+login url: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&rver=7.3.6963.0&wp=MBI_SSL&wreply=https:%2f%2faccount.xbox.com%2fen-us%2faccountcreation%3freturnUrl%3dhttps:%252f%252fwww.xbox.com:443%252fen-US%252f%26ru%3dhttps:%252f%252fwww.xbox.com%252fen-US%252f%26rtc%3d1&lc=1033&id=292543&aadredir=1
+
+textbox 1: loginfmt (name)
+button 1: idSIButton9 (id) Next (value)
+
+textbox 2: passwd (name)
+button 2: idSIButton9 (id) Sign in (value)
+
+profile url: https://account.xbox.com/en-us/profile?gamertag=
+
+add friend button: AddFriends (data-eventname) adfriendactionbutton (id)
+
+remove friend button: RemoveFriends (data-eventname) removefriendactionbutton (id)
+
+profile add/remove url: https://account.xbox.com/en-us/profile?gamertag=&refresh=1
